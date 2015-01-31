@@ -4,7 +4,15 @@ The `images` provides very basic styling for images (`img`).
 
 Install using Bower:
 
-    $ bower install --save tree-images
+```sh
+    $ bower install tree-images --save
+```
+
+Install using npm:
+
+```sh
+    $ npm install tree-images --save
+```
 
 ## Credits
 
